@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1712",
+  "folder": "Movies__AnimeXin.dev_against_ep_518_eng_20260529074330_6a2ad6",
+  "base_name": "Movies__AnimeXin.dev_against_ep_518_eng_20260529074330_6a2ad6.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/tag/co-releases-v1-1712",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_against_ep_518_eng_20260529074330_6a2ad6.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/download/co-releases-v1-1712/Movies__AnimeXin.dev_against_ep_518_eng_20260529074330_6a2ad6.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-4/releases/assets/432827239",
+      "id": 432827239,
+      "size": 205913344,
+      "download_count": 0
+    }
+  ]
+}
