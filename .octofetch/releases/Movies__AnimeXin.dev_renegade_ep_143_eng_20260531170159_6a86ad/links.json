@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3142",
+  "folder": "Movies__AnimeXin.dev_renegade_ep_143_eng_20260531170159_6a86ad",
+  "base_name": "Movies__AnimeXin.dev_renegade_ep_143_eng_20260531170159_6a86ad.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/tag/co-releases-v1-3142",
+  "files": [
+    {
+      "name": "Movies__AnimeXin.dev_renegade_ep_143_eng_20260531170159_6a86ad.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/download/co-releases-v1-3142/Movies__AnimeXin.dev_renegade_ep_143_eng_20260531170159_6a86ad.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-4/releases/assets/434569268",
+      "id": 434569268,
+      "size": 848110212,
+      "download_count": 0
+    }
+  ]
+}
