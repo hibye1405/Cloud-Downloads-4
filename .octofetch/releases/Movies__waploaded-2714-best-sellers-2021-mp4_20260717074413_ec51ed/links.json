@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7574",
+  "folder": "Movies__waploaded-2714-best-sellers-2021-mp4_20260717074413_ec51ed",
+  "base_name": "Movies__waploaded-2714-best-sellers-2021-mp4_20260717074413_ec51ed.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/tag/co-releases-v1-7574",
+  "files": [
+    {
+      "name": "Movies__waploaded-2714-best-sellers-2021-mp4_20260717074413_ec51ed.mp4",
+      "url": "https://github.com/hibye1405/Cloud-Downloads-4/releases/download/co-releases-v1-7574/Movies__waploaded-2714-best-sellers-2021-mp4_20260717074413_ec51ed.mp4",
+      "api_url": "https://api.github.com/repos/hibye1405/Cloud-Downloads-4/releases/assets/480113947",
+      "id": 480113947,
+      "size": 214377879,
+      "download_count": 0
+    }
+  ]
+}
